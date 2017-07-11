@@ -11,3 +11,4 @@ Social Power in the NBA (Comparing on the court performance with Social Influenc
 
 ## Play with Raw Data Here
 
+* 100 top players by PIE:  https://github.com/noahgift/socialpowernba/tree/master/data

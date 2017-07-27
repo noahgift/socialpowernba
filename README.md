@@ -1,7 +1,7 @@
 # socialpowernba
 Social Power in the NBA (Comparing on the court performance with Social Influence)
 
-![Social Power Data Sources] (https://user-images.githubusercontent.com/58792/28694940-19e6e532-72e1-11e7-9b62-0796e8ea140b.png)
+![Social Power Data Sources](https://user-images.githubusercontent.com/58792/28694940-19e6e532-72e1-11e7-9b62-0796e8ea140b.png)
 
 # Data Exploration
 

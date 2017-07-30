@@ -11,6 +11,10 @@ Social Power in the NBA (Comparing on the court performance with Social Influenc
 ## Social Power, Performance and Salary
 ![NBA 2016-2017 Season Twitter, Salary and Performance](https://user-images.githubusercontent.com/58792/28044183-b873238c-658a-11e7-90b7-bd923aeb1e32.png)
 
+## Valuation vs Attendance
+
+![NBA 2016-2017 Season Valuation Vs Attendance](https://user-images.githubusercontent.com/58792/28756721-c213f670-7528-11e7-8988-366b461e8992.png)
+
 ## Explore Juypter Notebooks
 
 [Juypter Noteboooks Social Power](https://github.com/noahgift/socialpowernba/tree/master/notebooks)

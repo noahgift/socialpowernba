@@ -13,7 +13,7 @@ Social Power in the NBA (Comparing on the court performance with Social Influenc
 
 ## Valuation vs Attendance
 
-![NBA 2016-2017 Season Valuation Vs Attendance] https://user-images.githubusercontent.com/58792/28756721-c213f670-7528-11e7-8988-366b461e8992.png
+![NBA 2016-2017 Season Valuation Vs Attendance](https://user-images.githubusercontent.com/58792/28756721-c213f670-7528-11e7-8988-366b461e8992.png)
 
 ## Explore Juypter Notebooks
 

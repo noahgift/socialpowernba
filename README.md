@@ -24,7 +24,7 @@ Social Power in the NBA (Comparing on the court performance with Social Influenc
 ![NBA 2016-2017 ELO, Attendance, Valuation Heatmap](https://user-images.githubusercontent.com/58792/28759996-25da9680-7558-11e7-9168-85989b7d63c9.png)
 
 ## REAL PlUS MINUS Wins, POINTS and SALARY
-![NBA 2016-2017 REAL PlUS MINUS Wins, POINTS and SALARY](https://user-images.githubusercontent.com/58792/28798820-8b2702f6-75fa-11e7-9f01-097dad85b604.png)
+![NBA 2016-2017 REAL PLUS MINUS Wins, POINTS and SALARY](https://user-images.githubusercontent.com/58792/28798820-8b2702f6-75fa-11e7-9f01-097dad85b604.png)
 
 ## Explore Juypter Notebooks
 

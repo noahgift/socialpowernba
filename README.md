@@ -15,6 +15,10 @@ Social Power in the NBA (Comparing on the court performance with Social Influenc
 
 ![NBA 2016-2017 Season Valuation Vs Attendance](https://user-images.githubusercontent.com/58792/28756721-c213f670-7528-11e7-8988-366b461e8992.png)
 
+## ELO vs Attendance
+
+![NBA 2016-2017 ELO Score Vs Attendance](https://user-images.githubusercontent.com/58792/28759207-2b139d9e-754f-11e7-9695-9a9083e1fb9c.png)
+
 ## Explore Juypter Notebooks
 
 [Juypter Noteboooks Social Power](https://github.com/noahgift/socialpowernba/tree/master/notebooks)

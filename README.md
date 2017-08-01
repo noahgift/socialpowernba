@@ -1,3 +1,16 @@
+# Introduction
+
+This project and the data explores the relationship between Social Media, Salary, Influence, Performance and Team Valuation in the NBA.
+
+## Kaggle Version of Project
+
+You can also see Kaggle Notebooks here:  
+
+* [Kaggle Kernel NBA Player Influence, Salary and Performance ](https://www.kaggle.com/noahgift/nba-player-power-influence-and-performance)
+
+* [Kaggle Kernel Team Valuation Performance ](https://www.kaggle.com/noahgift/nba-team-valuation-exploration)
+
+
 # Social Power, Influence and Performance in the NBA
 Social Power in the NBA (Comparing on the court performance with Social Influence)
 
@@ -26,10 +39,15 @@ Social Power in the NBA (Comparing on the court performance with Social Influenc
 ## REAL PLUS MINUS Wins, POINTS and SALARY
 ![NBA 2016-2017 REAL PLUS MINUS Wins, POINTS and SALARY](https://user-images.githubusercontent.com/58792/28798971-5bf50158-75fb-11e7-9090-290b0703b2aa.png)
 
+## ALL Data Correlation Heatmap
+
+![NBA 2016-2017 Correlation Heatmap REAL PLUS MINUS Wins, POINTS, SALARY, Wikipedia, Twitter](https://user-images.githubusercontent.com/58792/28804798-423a049c-761a-11e7-92ca-bc60bec6c147.png)
+
 ## Explore Juypter Notebooks
 
 [Juypter Noteboooks Social Power](https://github.com/noahgift/socialpowernba/tree/master/notebooks)
 
 ## Explore Raw Data Here
 
-* [100 top players by PIE](https://github.com/noahgift/socialpowernba/tree/master/data)
+* [NBA 2016-2017 REAL PLUS MINUS Wins, POINTS, SALARY, Wikipedia, Twitter](https://github.com/noahgift/socialpowernba/blob/master/data/nba_2017_players_with_salary_wiki_twitter.csv) 
+  - This data was collected from multiple sources:  ESPN, Basketball-Reference, Twitter, Wikipedia, and Forbes

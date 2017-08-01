@@ -37,3 +37,4 @@ Social Power in the NBA (Comparing on the court performance with Social Influenc
 ## Explore Raw Data Here
 
 * [100 top players by PIE](https://github.com/noahgift/socialpowernba/tree/master/data)
+* [NBA 2016-2017 REAL PLUS MINUS Wins, POINTS, SALARY, Wikipedia, Twitter](https://github.com/noahgift/socialpowernba/blob/master/data/nba_2017_players_with_salary_wiki_twitter.csv)

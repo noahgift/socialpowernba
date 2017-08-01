@@ -1,3 +1,16 @@
+# Introduction
+
+This project and the data explores the relationship between Social Media, Salary, Influence, Performance and Team Valuation in the NBA.
+
+## Kaggle Version of Project
+
+You can also see Kaggle Notebooks here:  
+
+* [Kaggle Kernel NBA Player Influence, Salary and Performance ](https://www.kaggle.com/noahgift/nba-player-power-influence-and-performance)
+
+* [Kaggle Kernel Team Valuation Performance ](https://www.kaggle.com/noahgift/nba-team-valuation-exploration)
+
+
 # Social Power, Influence and Performance in the NBA
 Social Power in the NBA (Comparing on the court performance with Social Influence)
 

@@ -47,6 +47,14 @@ Social Power in the NBA (Comparing on the court performance with Social Influenc
 
 [Juypter Noteboooks Social Power](https://github.com/noahgift/socialpowernba/tree/master/notebooks)
 
+## Social Money
+
+![NBA 2016-2017 Social Power, Influence and Performance Heatmap](https://user-images.githubusercontent.com/58792/28856405-adc4dd8a-76f7-11e7-8d9a-08d3b04369de.png)
+
+## Social Power and Performance
+![NBA 2016-2017 Social Power and Performance Heatmap](https://user-images.githubusercontent.com/58792/28851989-e80b35f6-76da-11e7-9497-1f69dc3c1134.png)
+
+
 ## Explore Raw Data Here
 
 * [NBA 2016-2017 REAL PLUS MINUS Wins, POINTS, SALARY, Wikipedia, Twitter](https://github.com/noahgift/socialpowernba/blob/master/data/nba_2017_players_with_salary_wiki_twitter.csv) 

@@ -1,1 +1,31 @@
-﻿TEAM,GMS,TOTAL,AVG,PCTChicago Bulls,41,888882,21680,103.60Dallas Mavericks,41,811366,19789,103.10Sacramento Kings,41,721928,17608,100.60Miami Heat,41,805400,19643,100.20Toronto Raptors,41,813050,19830,100.20Los Angeles Clippers,41,782609,19088,100.10Cleveland Cavaliers,41,843042,20562,100.00Golden State Warriors,41,803436,19596,100.00Oklahoma City Thunder,41,746323,18203,100.00New York Knicks,41,810741,19774,99.80Boston Celtics,41,760690,18553,99.60Los Angeles Lakers,41,776917,18949,99.40Portland Trail Blazers,41,792029,19317,99.40San Antonio Spurs,41,755347,18423,99.20Utah Jazz,41,806605,19673,98.80Orlando Magic,41,727875,17753,94.20New Orleans Pelicans,41,663099,16173,94.10Houston Rockets,41,695903,16973,94.10Phoenix Suns,41,708639,17283,93.80Indiana Pacers,41,684578,16697,91.90Memphis Grizzlies,41,677314,16519,91.20Charlotte Hornets,41,710643,17332,90.90Philadelphia 76ers,41,710557,17330,85.30Atlanta Hawks,41,654306,15958,85.20Brooklyn Nets,41,632608,15429,85.20Milwaukee Bucks,41,648952,15828,84.60Washington Wizards,41,697107,17002,83.80Denver Nuggets,41,605585,14770,77.10Minnesota Timberwolves,41,607203,14809,76.50Detroit Pistons,41,655141,15979,72.40
+TEAM,GMS,PCT,TOTAL_MILLIONS,AVG_MILLIONS
+Chicago Bulls,41,104,0.888882,0.02168
+Dallas Mavericks,41,103,0.811366,0.019789
+Sacramento Kings,41,101,0.721928,0.017608
+Miami Heat,41,100,0.8054,0.019643
+Toronto Raptors,41,100,0.81305,0.01983
+Los Angeles Clippers,41,100,0.782609,0.019088
+Cleveland Cavaliers,41,100,0.843042,0.020562
+Golden State Warriors,41,100,0.803436,0.019596
+Oklahoma City Thunder,41,100,0.746323,0.018203
+New York Knicks,41,100,0.810741,0.019774
+Boston Celtics,41,100,0.76069,0.018553
+Los Angeles Lakers,41,99,0.776917,0.018949
+Portland Trail Blazers,41,99,0.792029,0.019317
+San Antonio Spurs,41,99,0.755347,0.018423
+Utah Jazz,41,99,0.806605,0.019673
+Orlando Magic,41,94,0.727875,0.017753
+New Orleans Pelicans,41,94,0.663099,0.016173
+Houston Rockets,41,94,0.695903,0.016973
+Phoenix Suns,41,94,0.708639,0.017283
+Indiana Pacers,41,92,0.684578,0.016697
+Memphis Grizzlies,41,91,0.677314,0.016519
+Charlotte Hornets,41,91,0.710643,0.017332
+Philadelphia 76ers,41,85,0.710557,0.01733
+Atlanta Hawks,41,85,0.654306,0.015958
+Brooklyn Nets,41,85,0.632608,0.015429
+Milwaukee Bucks,41,85,0.648952,0.015828
+Washington Wizards,41,84,0.697107,0.017002
+Denver Nuggets,41,77,0.605585,0.01477
+Minnesota Timberwolves,41,77,0.607203,0.014809
+Detroit Pistons,41,72,0.655141,0.015979

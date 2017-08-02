@@ -54,6 +54,7 @@ Social Power in the NBA (Comparing on the court performance with Social Influenc
 ## Social Power and Performance
 ![NBA 2016-2017 Social Power and Performance Heatmap](https://user-images.githubusercontent.com/58792/28851989-e80b35f6-76da-11e7-9497-1f69dc3c1134.png)
 
+![NBA 2016-2017 Social Power and Performance Correlation Heatmap](https://user-images.githubusercontent.com/58792/28857433-4f640d04-76fe-11e7-9b44-808df9f32c5a.png)
 
 ## Explore Raw Data Here
 

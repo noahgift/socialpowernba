@@ -4,8 +4,10 @@ This project and the data explores the relationship between Social Media, Salary
 
 ## IBM Developerworks Articles on Project
 
-https://www.ibm.com/developerworks/library/ba-social-influence-python-pandas-machine-learning-r-1/
-https://www.ibm.com/developerworks/analytics/library/ba-social-influence-python-pandas-machine-learning-r-2/
+
+Social power, influence, and performance in the NBA, Part 1
+Explore valuation and attendance using data science and machine learning:  https://www.ibm.com/developerworks/library/ba-social-influence-python-pandas-machine-learning-r-1/
+Exploring the individual NBA players:  https://www.ibm.com/developerworks/analytics/library/ba-social-influence-python-pandas-machine-learning-r-2/
 
 ## Kaggle Version of Project
 

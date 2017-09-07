@@ -2,6 +2,11 @@
 
 This project and the data explores the relationship between Social Media, Salary, Influence, Performance and Team Valuation in the NBA.
 
+## IBM Developerworks Articles on Project
+
+https://www.ibm.com/developerworks/library/ba-social-influence-python-pandas-machine-learning-r-1/
+https://www.ibm.com/developerworks/analytics/library/ba-social-influence-python-pandas-machine-learning-r-2/
+
 ## Kaggle Version of Project
 
 You can also see Kaggle Notebooks here:  

@@ -2,6 +2,27 @@
 
 This project and the data explores the relationship between Social Media, Salary, Influence, Performance and Team Valuation in the NBA.
 
+## Data Legend
+
+* [Exploring Team Valuation Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_team_valuation_nba.ipynb)
+
+This notebook has the following data legend:
+
+- [Exploring Team Valuation Dataset created](https://github.com/noahgift/socialpowernba/blob/master/data/nba_2017_att_val_elo_win_housing_cluster.csv)
+
+* TEAM:  Name of the NBA Team
+* GMS:  Games Played
+* PCT_ATTENDANCE:  Average % Attendance of capacity (note some teams were over capacity as an averag)
+* WINNING_SEASON:  If the team won over 50% of their games, it was 1, otherwise 0.
+* TOTAL_ATTENDANCE_MILLIONS:  Total season attendance in the millions.
+* VALUE_MILLIONS:  Valuation of the team in millions
+* ELO:  https://en.wikipedia.org/wiki/Elo_rating_system
+* CONF:  Eastern or Western Conference
+* COUNTY:  The county where the team is located
+* MEDIAN_HOME_PRICE_COUNTY_MILLIONS:  Median Home Price
+* COUNTY_POPULATION_MILLIONS:  The Population of the county in Millions
+* cluster:  A cluster created by KMeans clustering (shown in notebook)
+
 ## IBM Developerworks Articles on Project
 
 

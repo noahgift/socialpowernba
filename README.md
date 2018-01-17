@@ -23,6 +23,29 @@ This notebook has the following data legend:
 * COUNTY_POPULATION_MILLIONS:  The Population of the county in Millions
 * cluster:  A cluster created by KMeans clustering (shown in notebook)
 
+* [Exploring Team Valuation Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/nba_player_power_influence_performance.ipynb)
+
+- [Exploring Team Valuation Dataset created](https://github.com/noahgift/socialpowernba/blob/master/data/nba_2017_endorsement_full_stats.csv)
+
+* PLAYER:  NBA Player Name
+* TEAM:  NBA Team
+* SALARY_MILLIONS:  Salary paid to player in Millions
+* ENDORSEMENT_MILLIONS:  Endorsements paid to player in Millions
+* PCT_ATTENDANCE_STADIUM:  Average % attendance in stadium
+* ATTENDANCE_TOTAL_BY_10K
+* FRANCHISE_VALUE_100_MILLION
+* ELO_100X:  https://en.wikipedia.org/wiki/Elo_rating_system/100
+* CONF:  Eastern or Western Conference (Even split between all teams between both conferences)
+* POSITION:  Position of the player
+* AGE
+* MP:   Minutes/Games Average
+* GP:  Games played
+* MPG:  Minutes/Games Average
+* WINS_RPM:  Wins attributed to individual player performance.  One of the best metrics of overall impact on team.
+* PLAYER_TEAM_WINS:  Wins for the team the playes is on.  
+* WIKIPEDIA_PAGEVIEWS_10K:  Pageviews of player divided by 10 thousand
+TWITTER_FAVORITE_COUNT_1K:  Twitter favorites of player profile divided by 1 thousand.
+
 ## IBM Developerworks Articles on Project
 
 

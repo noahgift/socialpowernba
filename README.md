@@ -4,11 +4,11 @@ This project and the data explores the relationship between Social Media, Salary
 
 ## Data Legend
 
-* [Exploring Team Valuation Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_team_valuation_nba.ipynb)
+### [Exploring Team Valuation Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_team_valuation_nba.ipynb)
 
 This notebook has the following data legend:
 
-- [Exploring Team Valuation Dataset created](https://github.com/noahgift/socialpowernba/blob/master/data/nba_2017_att_val_elo_win_housing_cluster.csv)
+### [Exploring Team Valuation Dataset created](https://github.com/noahgift/socialpowernba/blob/master/data/nba_2017_att_val_elo_win_housing_cluster.csv)
 
 * TEAM:  Name of the NBA Team
 * GMS:  Games Played
@@ -23,9 +23,9 @@ This notebook has the following data legend:
 * COUNTY_POPULATION_MILLIONS:  The Population of the county in Millions
 * cluster:  A cluster created by KMeans clustering (shown in notebook)
 
-* [Exploring Team Valuation Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/nba_player_power_influence_performance.ipynb)
+### [Exploring Team Valuation Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/nba_player_power_influence_performance.ipynb)
 
-- [Exploring Team Valuation Dataset created](https://github.com/noahgift/socialpowernba/blob/master/data/nba_2017_endorsement_full_stats.csv)
+### [Exploring Team Valuation Dataset created](https://github.com/noahgift/socialpowernba/blob/master/data/nba_2017_endorsement_full_stats.csv)
 
 * PLAYER:  NBA Player Name
 * TEAM:  NBA Team

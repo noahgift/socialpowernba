@@ -90,6 +90,9 @@ Social Power in the NBA (Comparing on the court performance with Social Influenc
 ## REAL PLUS MINUS Wins, POINTS and SALARY
 ![NBA 2016-2017 REAL PLUS MINUS Wins, POINTS and SALARY](https://user-images.githubusercontent.com/58792/28798971-5bf50158-75fb-11e7-9090-290b0703b2aa.png)
 
+## 3D Plot
+![3D Plot](https://user-images.githubusercontent.com/58792/36056809-7f87a266-0dbc-11e8-8877-9bb87905adbd.png)
+
 ## ALL Data Correlation Heatmap
 
 ![NBA 2016-2017 Correlation Heatmap REAL PLUS MINUS Wins, POINTS, SALARY, Wikipedia, Twitter](https://user-images.githubusercontent.com/58792/28804798-423a049c-761a-11e7-92ca-bc60bec6c147.png)

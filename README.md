@@ -1,6 +1,15 @@
 # Introduction
 
-This project and the data explores the relationship between Social Media, Salary, Influence, Performance and Team Valuation in the NBA.
+This project and the data explores the relationship between Social Media, Salary, Influence, Performance and Team Valuation in the NBA.  This is covered in [Chapter 6 of Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-based-Learning/dp/0134863860)
+
+
+## Strata 2018 Talk
+
+* [What is the relationship between social influence and the NBA](https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/63606)
+
+* [Slides on What is the relationship between social influence and the NBA](https://cdn.oreillystatic.com/en/assets/1/event/269/What%20is%20the%20relationship%20between%20social%20influence%20and%20the%20NBA_%20Presentation.pdf)
+
+* [Video of Strata Talk on Safari](https://www.safaribooksonline.com/library/view/strata-data-conference/9781492025955/video319171.html)
 
 ## IBM Developerworks Articles on Project
 

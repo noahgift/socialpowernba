@@ -2,6 +2,20 @@
 
 This project and the data explores the relationship between Social Media, Salary, Influence, Performance and Team Valuation in the NBA.
 
+## IBM Developerworks Articles on Project
+
+* *Explore valuation and attendance using data science and machine learning*:  https://www.ibm.com/developerworks/library/ba-social-influence-python-pandas-machine-learning-r-1/
+
+* *Exploring the individual NBA players*:  https://www.ibm.com/developerworks/analytics/library/ba-social-influence-python-pandas-machine-learning-r-2/
+
+## Kaggle Version of Project
+
+You can also see Kaggle Notebooks here:  
+
+* [Kaggle Kernel NBA Player Influence, Salary and Performance ](https://www.kaggle.com/noahgift/nba-player-power-influence-and-performance)
+
+* [Kaggle Kernel Team Valuation Performance ](https://www.kaggle.com/noahgift/nba-team-valuation-exploration)
+
 ## Data Legend
 
 ### [Exploring Team Valuation Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_team_valuation_nba.ipynb)
@@ -45,22 +59,6 @@ This notebook has the following data legend:
 * PLAYER_TEAM_WINS:  Wins for the team the playes is on.  
 * WIKIPEDIA_PAGEVIEWS_10K:  Pageviews of player divided by 10 thousand
 TWITTER_FAVORITE_COUNT_1K:  Twitter favorites of player profile divided by 1 thousand.
-
-## IBM Developerworks Articles on Project
-
-
-* *Explore valuation and attendance using data science and machine learning*:  https://www.ibm.com/developerworks/library/ba-social-influence-python-pandas-machine-learning-r-1/
-
-* *Exploring the individual NBA players*:  https://www.ibm.com/developerworks/analytics/library/ba-social-influence-python-pandas-machine-learning-r-2/
-
-## Kaggle Version of Project
-
-You can also see Kaggle Notebooks here:  
-
-* [Kaggle Kernel NBA Player Influence, Salary and Performance ](https://www.kaggle.com/noahgift/nba-player-power-influence-and-performance)
-
-* [Kaggle Kernel Team Valuation Performance ](https://www.kaggle.com/noahgift/nba-team-valuation-exploration)
-
 
 # Social Power, Influence and Performance in the NBA
 Social Power in the NBA (Comparing on the court performance with Social Influence)

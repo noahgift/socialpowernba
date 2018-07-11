@@ -9,6 +9,7 @@ This project was produced by [Pragmatic AI Labs](https://paiml.com/).  You can c
 
 *   Buying a copy of [Pragmatic AI: An Introduction to Cloud-Based Machine Learning](https://amzn.to/2LFLVEg)
 *   Viewing more content at [noahgift.com](https://noahgift.com/)
+*   Viewing more content at [Pragmatic AI Labs](https://paiml.com/)
 *   Hear more about the some of the topics covered in [TWIML podcast](https://twimlai.com/twiml-talk-158-growth-hacking-sports-w-machine-learning-with-noah-gift/)
 
 

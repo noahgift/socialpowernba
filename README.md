@@ -1,6 +1,15 @@
 # Introduction
 
-This project and the data explores the relationship between Social Media, Salary, Influence, Performance and Team Valuation in the NBA.  This is covered in [Chapter 6 of Pragmatic AI](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-based-Learning/dp/0134863860)
+This project and the data explores the relationship between Social Media, Salary, Influence, Performance and Team Valuation in the NBA.  This is covered in [Chapter 6 of Pragmatic AI](https://amzn.to/2LFLVEg)
+
+## Pragmatic AI Labs
+![alt text](https://paiml.com/images/logo_with_slogan_white_background.png)
+
+This project was produced by [Pragmatic AI Labs](https://paiml.com/).  You can continue learning about these topics by:
+
+*   Buying a copy of [Pragmatic AI: An Introduction to Cloud-Based Machine Learning](https://amzn.to/2LFLVEg)
+*   Viewing more content at [noahgift.com](https://noahgift.com/)
+*   Hear more about the some of the topics covered in [TWIML podcast](https://twimlai.com/twiml-talk-158-growth-hacking-sports-w-machine-learning-with-noah-gift/)
 
 
 ## Strata 2018 Talk

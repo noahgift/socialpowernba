@@ -153,3 +153,11 @@ His most recent online courses are:
 
 *   [Microservices with this Udacity DevOps Nanodegree (Udacity, 2019)](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991)
 *   [Command Line Automation in Python (DataCamp, 2019)](https://www.datacamp.com/instructors/ndgift)
+
+<!-- funnel:start -->
+---
+
+**Learn Python for data and AI engineering:** [AI Debugging and Test-Driven Fixes (Coursera)](https://www.coursera.org/learn/ai-debugging?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=socialpowernba) · [Applied Python Data Engineering, Duke (Coursera)](https://www.coursera.org/specializations/python-data-engineering?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=socialpowernba) · [Data Engineering with Python and Linux program (edX)](https://www.edx.org/certificates/professional-certificate/ai-data-engineering-with-python-and-linux?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=socialpowernba)
+
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+<!-- funnel:end -->

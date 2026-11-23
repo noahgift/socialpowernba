@@ -153,3 +153,7 @@ His most recent online courses are:
 
 *   [Microservices with this Udacity DevOps Nanodegree (Udacity, 2019)](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991)
 *   [Command Line Automation in Python (DataCamp, 2019)](https://www.datacamp.com/instructors/ndgift)
+
+<!-- FUNNEL-001 footer: replace socialpowernba with the repo name -->
+---
+📚 **Learn this hands-on:** [Pragmatic AI Labs courses on Coursera](https://www.coursera.org/partners/pragmatic-ai-labs?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=socialpowernba) · ✉ [Free newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=socialpowernba)
